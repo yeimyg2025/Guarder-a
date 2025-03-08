@@ -39,8 +39,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <?php include '../Shared/header.php'; ?>
 
-<?php include '../Shared/nav.php'; ?>
-
 <?php include '../Shared/aside.php'; ?>
 
         <div id="page-wrapper">

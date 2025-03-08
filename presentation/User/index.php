@@ -13,9 +13,6 @@ $usuarios = $userService->getAllUsers();
 <?php include '../Shared/header.php'; ?>
 
         <div id="wrapper">
-
-            <?php include '../Shared/nav.php'; ?>
-
             <?php include '../Shared/aside.php'; ?>
 
             <div id="page-wrapper">
