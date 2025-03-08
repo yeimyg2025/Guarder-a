@@ -3,8 +3,8 @@
 class Database
 {
     private $host = 'localhost';
-    private $port = '3306'; // Puerto personalizado
-    private $db_name = 'proyecto';
+    private $port = '3307'; // Puerto personalizado
+    private $db_name = 'guardería';
     private $username = 'root';
     private $password = '';
     private $conn;
