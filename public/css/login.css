@@ -1,5 +1,6 @@
 body {
     background-color: #ffffff; /* Color de fondo más oscuro */
+    background-image: url("../img/colores.jpg");
     color: #640D5F; /* Texto en blanco */
     font-family: 'Arial', sans-serif; /* Tipografía */
 }
